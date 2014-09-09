@@ -1,0 +1,12 @@
+### https://raw.github.com/github/gitignore/9b1b0188ba9ebfade593189babd5eeaccd2173f4/R.gitignore
+
+# History files
+.Rhistory
+
+# Example code in package build process
+*-Ex.R
+
+# R data files from past sessions
+.Rdata
+
+
